@@ -1,5 +1,4 @@
-# EdmilsonBarreto
-
+# EdmilsonBarreto RELEASE
 Sou estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS pela faculdade UNIP.
 
 Estou concluindo alguns cursos através da plataforma Alura, dentre eles estão: HTML, CSS, JavaScript, Bootstrap, 
