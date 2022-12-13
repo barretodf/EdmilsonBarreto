@@ -9,6 +9,6 @@ Tenho muita vontade de crescer na área e me tornar um programador Sênior.
 Estou disposto a dar o meu melhor para a empresa em que trabalhar, buscando o aperfeiçoamento e profissionalismo a cada dia para que eu possa retribuir o investimento e a confiança depositados em mim.
 
 Estou diponível para propostas de emprego.
-contatos: 061 98127 2164
+contatos: 061 98127 2164 Email:
 edsb1981@gmail.com
 
